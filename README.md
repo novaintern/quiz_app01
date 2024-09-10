@@ -1,1 +1,1 @@
-# quizapp01
+This is a Quiz app with two main components: the Front-end and Back-end. The Back-end is developed using Express.js, where all the quiz questions and data are stored. The Front-end, built with HTML, CSS, and JavaScript, communicates with the Back-end by making API requests. Through the API, users can select and specify the type of quiz they want to play.  
